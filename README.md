@@ -31,10 +31,11 @@ DSRN
 DURN
 Realisation %
 Occupancy and Cancellation %
-Power BI fundamentals
+
+#### Power BI fundamentals
 Data cleaning and Snowflake schema modelling
-learnt about page navigation, tool tip,conditional formatting
-created donut ,line,ribbon , line and clustered columns chart, matrix table.
+Learnt about page navigation, tool tip,conditional formatting
+Created donut, line, ribbon, line and clustered columns chart, matrix table.
 
 
 #### Soft Skills
