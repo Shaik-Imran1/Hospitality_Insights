@@ -12,7 +12,6 @@ Atliq Grands has experienced declining market share and revenue due to competiti
 #### Project Goal
 The primary goal of this project is to enhance Atliq Grands' market share and revenue in the luxury business hotel sector. The company intends to outperform competitors and improve management decisions by utilizing data-driven strategies and business intelligence.
 
-
 #### Task
 As a data analyst, I was tasked with analyzing sample data and creating a dashboard according to a provided mock-up.
 
@@ -30,7 +29,7 @@ Total Revenue (Rev): ₹1.82 Billion 💰
 Average Daily Rate (ADR): ₹12.70K 🏨
 Revenue per Available Room (RevPAR): ₹7.29K 💸
 Occupancy Rate [Percentage of occupied rooms]: 57.8%🛏️
-DSRN [Daily Sellable Rooms per Night]: 
+DSRN [Daily Sellable Rooms per Night]: 2528 🛏️
 Cancellation Rate: 58.35% 📉
 Average Rating: 3.62 ⭐
 No Show Rate[Percentage of no-shows]: 5%🚫
