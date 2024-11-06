@@ -17,22 +17,35 @@ As a data analyst, I was tasked with analyzing sample data and creating a dashbo
 
 #### Key Metrics
 𝗥𝗲𝘃𝗣𝗔𝗥 (𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗽𝗲𝗿 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗥𝗼𝗼𝗺): Measures revenue generated per available room, combining occupancy rate and average daily rate to gauge performance.
+
 𝗔𝗗𝗥 (𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗗𝗮𝗶𝗹𝘆 𝗥𝗮𝘁𝗲): The average income per occupied room, indicating pricing effectiveness.
+
 𝗥𝗲𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: The actual revenue collected after discounts or adjustments and cancellations reflecting the net earnings.
+
 𝗗𝗕𝗥𝗡 (𝗗𝗮𝗶𝗹𝘆 𝗕𝗼𝗼𝗸𝗲𝗱 𝗥𝗼𝗼𝗺𝘀 𝗽𝗲𝗿 𝗡𝗶𝗴𝗵𝘁): Tracks the number of rooms booked each night, essential for monitoring booking trends and optimizing pricing strategies.
+
 𝗗𝗨𝗥𝗡 (𝗗𝗮𝗶𝗹𝘆 𝗨𝘁𝗶𝗹𝗶𝘇𝗲𝗱 𝗥𝗼𝗼𝗺𝘀 𝗽𝗲𝗿 𝗡𝗶𝗴𝗵𝘁) : Measures actual room utilization each night, helping identify occupancy patterns and adjust resources accordingly.
+
 𝗗𝗦𝗥𝗡 (𝗗𝗮𝗶𝗹𝘆 𝗦𝗼𝗹𝗱 𝗥𝗼𝗼𝗺𝘀 𝗽𝗲𝗿 𝗡𝗶𝗴𝗵𝘁): The actual number of rooms sold each night, reflecting true demand and occupancy trends.
 
 
 #### Notable Discoveries
 Total Revenue (Rev): ₹1.82 Billion 💰
+
 Average Daily Rate (ADR): ₹12.70K 🏨
+
 Revenue per Available Room (RevPAR): ₹7.29K 💸
+
 Occupancy Rate [Percentage of occupied rooms]: 57.8%🛏️
+
 DSRN [Daily Sellable Rooms per Night]: 2528 🛏️
+
 Cancellation Rate: 58.35% 📉
+
 Average Rating: 3.62 ⭐
+
 No Show Rate[Percentage of no-shows]: 5%🚫
+
 
 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 
