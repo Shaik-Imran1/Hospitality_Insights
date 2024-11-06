@@ -55,7 +55,9 @@ Implement promotional discounts during low-demand periods to boost occupancy rat
 
 Check out the live dashboard to see it in action
 [🔗𝗟𝗶𝘃𝗲 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱](https://app.powerbi.com/view?r=eyJrIjoiODJmMzE0YzMtYTNmNy00NDlkLTg3YmYtNDE3MDAzMTA2ZDRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-[🔗**LinkedIn**](https://www.linkedin.com/in/shaikimran1/)
+
+Feel free to reach out to me on [🔗**LinkedIn**](https://www.linkedin.com/in/shaikimran1/) to connect and collaborate.
+
 
 
 
